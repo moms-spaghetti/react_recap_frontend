@@ -1,0 +1,13 @@
+.header-bar-links {
+  color: #000;
+  font-weight: bold;
+  user-select: none;
+}
+
+.header-bar-links:hover {
+  border-bottom: 2px solid #1790ff;
+}
+
+.header-bar-links:active {
+  border-bottom: 2px solid #9fd0ff;
+}

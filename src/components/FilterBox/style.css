@@ -1,0 +1,26 @@
+#filter-box {
+  max-width: 250px;
+  margin: 10px;
+  background-color: white;
+}
+
+.filter-group {
+  border: 1px solid lightgray;
+  padding: 2px;
+  margin-bottom: 10px;
+}
+
+.filter-group::-webkit-scrollbar {
+  width: 5px;
+}
+
+.filter-group::-webkit-scrollbar-track {
+  background: #f2f2f2;
+}
+
+.filter-group::-webkit-scrollbar-thumb {
+  background-color: #f2f2f2;
+}
+
+.ant-select-selector {
+}

@@ -1,0 +1,25 @@
+.skeleton-card-image {
+  width: 100%;
+  height: 150px;
+  margin-left: 4px;
+  display: inline-block;
+  border-radius: 2px;
+  background: linear-gradient(
+    90deg,
+    rgba(190, 190, 190, 0.2) 25%,
+    rgba(129, 129, 129, 0.24) 37%,
+    rgba(190, 190, 190, 0.2) 63%
+  );
+  background-size: 400% 100%;
+  animation: load 1.4s ease 0s infinite normal none;
+}
+
+@keyframes load {
+  0% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0 50%;
+  }
+}

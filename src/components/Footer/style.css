@@ -1,0 +1,31 @@
+.footer-link {
+  color: #c2c2c2;
+}
+
+#footer-link-twitter:hover {
+  color: #1da1f2;
+}
+
+#footer-link-facebook:hover {
+  color: #4267b2;
+}
+
+#footer-link-youtube:hover {
+  color: #c4302b;
+}
+
+#footer-link-linkedin:hover {
+  color: #0072b1;
+}
+
+#footer-link-medium:hover {
+  color: #00ab6c;
+}
+
+#footer-link-env:hover {
+  color: #db4437;
+}
+
+#footer-link-mail:hover {
+  color: #f6f3ed;
+}
